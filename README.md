@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
