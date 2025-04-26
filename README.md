@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
