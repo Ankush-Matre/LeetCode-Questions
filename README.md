@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0525-contiguous-array](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -56,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
