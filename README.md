@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 ## Design
 |  |
 | ------- |
