@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0525-contiguous-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
