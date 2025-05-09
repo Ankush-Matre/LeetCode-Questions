@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -71,8 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0155-min-stack) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
