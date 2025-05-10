@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Design
 |  |
 | ------- |
@@ -82,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
