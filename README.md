@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
