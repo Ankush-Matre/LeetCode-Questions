@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1293-three-consecutive-odds](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ankush-Matre/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
